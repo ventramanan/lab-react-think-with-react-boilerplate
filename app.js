@@ -41,4 +41,4 @@ class ReactContainer extends React.Component{
 
 const container = document.getElementById('React-container');
 // Direclty pass the component to render
-ReactDOM.render(<ReactContainer/>,container); 
+ReactDOM.render(ReactContainer,container); 
